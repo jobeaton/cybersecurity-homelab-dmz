@@ -41,6 +41,10 @@ DHCP Services
 ACL-Based Firewall Rules
 DMZ Configuration
 
+
+## IDS Sensor
+A PC labeled "IDS-Sensor" simulates traffic monitoring and represents an intrusion detection system like Snort or Wireshark.
+
 # What I learned
 Set up a multi-zone firewall using ASA
 Applied access control logic using extended ACLs
